@@ -3,4 +3,4 @@ GitHub Pages from NatureStone
 
 ## See also
 
-- naturestone.github.io
+- <https://naturestone.github.io>
