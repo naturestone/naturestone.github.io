@@ -8,3 +8,7 @@ GitHub Pages from NatureStone
 ## Developer Sites
 
 - <https://developer.mozilla.org/de/docs/Web/JavaScript/Eine_Wiedereinfuehrung_in_JavaScript>
+
+## See also
+
+- https://docs.github.com/en/pages/quickstart
